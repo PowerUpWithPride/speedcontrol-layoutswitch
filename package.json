@@ -5,6 +5,7 @@
   "homepage": "https://layout.powerupwithpride.org",
   "author": "DorkmasterFlek",
   "dependencies": {
+    "clone": "^2.1.2"
   },
   "nodecg": {
     "compatibleRange": "^1.0.0",
