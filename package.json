@@ -8,9 +8,9 @@
     "clone": "^2.1.2"
   },
   "nodecg": {
-    "compatibleRange": "^1.0.0",
+    "compatibleRange": "^1.5.0",
     "dependencies": [
-      "speedcontrol/nodecg-speedcontrol:>=0.9"
+      "speedcontrol/nodecg-speedcontrol:>=2.0"
     ],
     "dashboardPanels": [
       {
@@ -18,7 +18,7 @@
         "title": "Game Layout Override",
         "width": 2,
         "file": "game-layout-override.html",
-        "headerColor": "#008BB9",
+        "headerColor": "#525C78",
         "workspace": "Scene Editing"
       }
     ]
