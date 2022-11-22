@@ -24,6 +24,7 @@ const defaultLayouts = [
     {name: 'GBA 2 Player', code: 'gba-2p'},
     {name: 'DS 1 Player', code: 'ds-1p'},
     {name: '3DS 1 Player', code: '3ds-1p'},
+    {name: 'Pinball', code: 'pinball'},
 ];
 
 // If we have extra layouts in the bundle config, add them at the end.
