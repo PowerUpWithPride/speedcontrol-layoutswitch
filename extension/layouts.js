@@ -25,6 +25,8 @@ const defaultLayouts = [
     {name: 'DS 1 Player', code: 'ds-1p'},
     {name: '3DS 1 Player', code: '3ds-1p'},
     {name: 'Pinball', code: 'pinball'},
+    {name: 'Fusion Randomizer', code: 'fusion'},
+    {name: 'Final Fantasy IV Randomizer', code: 'ff4r_v2'},
 ];
 
 // If we have extra layouts in the bundle config, add them at the end.
