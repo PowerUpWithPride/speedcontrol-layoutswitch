@@ -18,6 +18,7 @@ const defaultLayouts = [
     {name: '16:9 2 Player', code: '16_9-2p'},
     {name: '16:9 3 Player', code: '16_9-3p'},
     {name: '16:9 4 Player', code: '16_9-4p'},
+    {name: '16:9 with Cam', code: '16_9-cam'},
     {name: 'Game Boy 1 Player', code: 'gb-1p'},
     {name: 'Game Boy 2 Player', code: 'gb-2p'},
     {name: 'GBA 1 Player', code: 'gba-1p'},
